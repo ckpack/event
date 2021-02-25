@@ -1,0 +1,15 @@
+{
+  "name": "@ckpack/event",
+  "version": "1.0.4",
+  "description": "事件触发器-同步|异步触发事件",
+  "main": "event.js",
+  "directories": {
+    "example": "example"
+  },
+  "keywords": [
+    "event"
+  ],
+  "author": "chenkai",
+  "license": "ISC",
+  "repository": "https://github.com/ckpack/event"
+}
